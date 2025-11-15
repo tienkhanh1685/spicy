@@ -1,4 +1,4 @@
-local Webhook = "https://discord.com/api/webhooks/1436519539255939204/aOUHznV6CKdSy7OIB60qxpeNlWLezefl3XhvpR82V7JoWfJFRuXaQZHdXhHGP5HWRkco"
+local Webhook = "https://discord.com/api/webhooks/1439327535346225297/KIu22qyYmki_EsqVyJqS0LnSRThDScROgMTm95Az78NCVsZxqj9tRbbrqp3nX2lrxrjT"
 
 getgenv().UserPingThreshold = 50000000
 
